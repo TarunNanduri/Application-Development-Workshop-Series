@@ -1,6 +1,6 @@
 <h1> Application Development Workshop Series </h1>
 <h1> Microsoft Student Partners </h1>
-
+<img src="https://yt3.ggpht.com/a-/AAuE7mCuSpYBaDrq2KHaFAqSq87dUqeZNL3CWbMBpw=s900-mo-c-c0xffffffff-rj-k-no">
 <h2> Tech Stack we gonna learn </h2>
 
 <ul>
