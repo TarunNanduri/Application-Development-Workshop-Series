@@ -11,7 +11,7 @@
   <li> React </li>
   <li> Flutter </li>
 </ul>
-
+<p>
 It's a bit from MSP's to skill up individuals and empower people all around the world.
 
 Thank you for being part of our ever spreading community.
@@ -26,3 +26,5 @@ Our Contributors:
 </ul>
 
 Last edited April 28 2020.
+
+</p>
