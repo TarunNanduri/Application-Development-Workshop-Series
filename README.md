@@ -11,12 +11,9 @@
   <li> React </li>
   <li> Flutter </li>
 </ul>
-<p>
 It's a bit from MSP's to skill up individuals and empower people all around the world.<br><br>
 Thank you for being part of our ever spreading community.<br><br>
 Repository with all codes of Microsoft Student Partner App Development Workshop Series, maintained by <b> Tarun Nanduri </b>, Gold MSP.
-</p>
-<p>
 Our Contributors:
 <ul>
   <li> <b> Vamsi Annabathula </b> </li>
@@ -25,5 +22,3 @@ Our Contributors:
 </ul>
 
 Last edited April 28 2020.
-
-</p>
