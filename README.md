@@ -13,7 +13,8 @@
 </ul>
 <p>
 It's a bit from MSP's to skill up individuals and empower people all around the world.
-<br>Thank you for being part of our ever spreading community.
+
+Thank you for being part of our ever spreading community.
 </p>
 Our Contributors:
 <ul>
@@ -25,5 +26,6 @@ Our Contributors:
 
 <p>
 Repository with all codes of Microsoft Student Partner App Development Workshop Series, maintained by <b> Tarun Nanduri </b>, Gold MSP.
+
 Last edited April 28 2020.
 </p>
