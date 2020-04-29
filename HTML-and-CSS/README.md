@@ -2,7 +2,8 @@
 ### Microsoft Student Partners
 
 Learn the basics of HTML and CSS.
-Resources: 
+
+#### Resources: 
 
 * https://www.w3schools.com/html/
 * https://www.w3schools.com/Css/
