@@ -1,0 +1,116 @@
+html{
+    scroll-behavior:smooth;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:Arial;
+}
+nav{
+    width:100%;
+    overflow: hidden;
+    position: fixed;
+    background-color: white;
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+li{
+    float:left;
+
+}
+a{
+    width:100px;
+    padding:20px;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+#Sec1{
+    height: 700px;
+    display: inline-block;
+    background-image: url(./human.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+#Sec2{
+    height: 800px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+#Sec5{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    
+} 
+
+#Sec6   {
+    height: 700px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(1,15,35);
+    color: white;
+}
+
+.row1{
+    padding: 10%;
+    display: flex;
+    
+}
+
+.lcol1{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+
+}
+.rcol1{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    
+}
+
+.row2{
+    padding: 10%;
+    display: flex;
+}
+
+.lcol2{
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+
+.rcol2{
+    float: left;
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+
+/*
+#Sec4{
+    height: 700px;
+    display: inline-block;
+    width: 100%;
+}*/
+/* #Sec5{
+    height: 700px;
+    display: inline-block;
+    width: 100%;
+} */
+/* #Sec6{
+    height: 700px;
+    width: 100%;
+} */
