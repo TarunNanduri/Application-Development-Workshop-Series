@@ -1,0 +1,71 @@
+/*---global---*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4{
+    margin: 0;
+}
+
+/* a{
+    text-decoration: none;
+} */
+
+a:hover{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 100px;
+    line-height: 2;
+    color: white;
+}
+
+h2{
+    font-size: 45px;
+    font-style: italic;
+    border-bottom: 5px dashed rgb(10, 65, 83);
+
+}
+
+ul{
+    border-style: dotted;
+    color: darkblue;
+}
+/*----*/
+
+#source{
+    background-color: blueviolet;
+        background-image: url(2019_MSP_IO_Pattern_Blog_Black_850x376.png);
+
+}
+
+.content{
+    background-color: rgb(245, 165, 136);
+    line-height: 2;
+}
+
+h1{
+    font-size: 100px;
+    line-height: 2;
+    color: white;
+}
+
+.experiment h1, h2{
+    font-size: 20px;
+    font-style: initial;
+    color: black;
+    border-bottom: none;
+}
+.experiment{
+    padding: 10px 0;
+}
+
+.experiment a{
+    background-color: rgba(140, 50, 241, 0.76);
+    color: white;
+    padding: 15px 32px;
+    font-weight: 20px;
+    border-radius: 10px;
+}
