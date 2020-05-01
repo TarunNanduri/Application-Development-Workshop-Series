@@ -1,4 +1,4 @@
-#### Introduction session for HTML
+### Introduction session for HTML
 
 
 * Topics covered in HTML 
@@ -22,4 +22,4 @@
         * Src
         * Alt and many more . . .
     * HTML Comments
-
+* <a href="https://github.com/TarunNanduri/Application-Development-Workshop-Series/blob/master/HTML-and-CSS/Tutorial/intro.html">intro.html</a> contains the html used for learning purposes.
