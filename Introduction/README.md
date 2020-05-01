@@ -5,6 +5,8 @@
   * BackEnd
   * FrontEnd
   * Server
+ 
+![Architecture](architecture.png)
 
 * Tech Stacks we have for application development
   * MEAN
