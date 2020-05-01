@@ -1,4 +1,4 @@
-# Topics covered in CSS
+* Topics covered in CSS
     * Intro to CSS
     * Why it is used?
     * Methods to add CSS
