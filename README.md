@@ -21,7 +21,7 @@ Our Contributors:
   <li> <b> Tarun Nanduri </b> </li>
   <li> <b> Vamsi Annabathula </b> </li>
   <li> <b> Shibam Dhar </b> </li>
-  <li> <b> Charishma Prathiparthi </b> </li>
+  <li> <b> Charishma Devi Prathipati </b> </li>
   <li> <b> Hari Priya </b> </li>
   <li> <b> Gautami Priya </b> </li>
 </ul>
