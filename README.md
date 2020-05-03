@@ -18,7 +18,7 @@ Thank you for being part of our ever spreading community.
 </p>
 Our Contributors:
 <ul>
-  <li> <b> Tarun Nanduri </b> </li>
+  <li> <i> Tarun Nanduri </i> </li>
   <li> <b> Vamsi Annabathula </b> </li>
   <li> <b> Shibam Dhar </b> </li>
   <li> <b> Charishma Devi Prathipati </b> </li>
