@@ -122,7 +122,7 @@ class LanguagePageState extends State<LanguagePage> {
                   Colors.primaries[Random().nextInt(Colors.primaries.length)]),
           borderRadius: BorderRadius.all(Radius.circular(15))),
       title: Text(
-        'Add a Langauge',
+        'Add a Languauge',
         style: TextStyle(
             color: Colors.primaries[Random().nextInt(Colors.primaries.length)]),
       ),
