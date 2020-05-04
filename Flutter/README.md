@@ -5,12 +5,10 @@ A Flutter project to train students on Cross Platform App Development
 ## Screenshots
 
 ### Mobile
-<img src="mobile-screenshot-2.png" height="300">
-<img src="mobile-screenshot-1.png" height="300">
+<img src="mobile-screenshot-2.png" height="300"> | <img src="mobile-screenshot-1.png" height="300">
 
 ### Web
-<img src="web-screenshot-2.png" height="300">
-<img src="web-screenshot-1.png" height="300">
+<img src="web-screenshot-2.png" height="300"> | <img src="web-screenshot-1.png" height="300">
 
 ## Getting Started
 
