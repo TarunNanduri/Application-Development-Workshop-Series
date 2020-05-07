@@ -1,6 +1,6 @@
 ## Connecting a website to a database
 
-#####mongoDbOnAzureCosmosConnectPortfolio (pwd)
+##### mongoDbOnAzureCosmosConnectPortfolio (pwd)
 This directory consists of 2 folders
 ```
 1. websiteServer
