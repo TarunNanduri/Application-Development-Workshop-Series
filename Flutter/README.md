@@ -12,6 +12,9 @@ Here's the link to <a href="http://web-demo-flutter.surge.sh/#/">Web Application
 ### Web
 <img src="web-screenshot-2.png" height="300"> | <img src="web-screenshot-1.png" height="300">
 
+### Windows
+<img src="desktop-windows.png" height="300"> | <img src="desktop-windows-1.png" height="300">
+
 ## Getting Started
 
 A few resources to get you started in Flutter:
