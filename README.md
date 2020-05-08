@@ -20,6 +20,7 @@ Our Contributors:
 <ul>
   <li> <b> Tarun Nanduri </b> </li>
   <li> <b> Vamsi Annabathula </b> </li>
+  <li> <b> Iftekharuddin Mohammed </b> </li>
   <li> <b> Shibam Dhar </b> </li>
   <li> <b> Charishma Devi Prathipati </b> </li>
   <li> <b> Hari Priya </b> </li>
