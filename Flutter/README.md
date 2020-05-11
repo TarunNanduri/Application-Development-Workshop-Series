@@ -17,6 +17,8 @@ Here's the link to <a href="http://web-demo-flutter.surge.sh/#/">Web Application
 
 ## Getting Started
 
+For everything related to flutter, visit https://flutter.dev/
+
 A few resources to get you started in Flutter:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
