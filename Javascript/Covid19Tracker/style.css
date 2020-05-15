@@ -1,0 +1,33 @@
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.worldtracker{
+    display:flex;
+    justify-content: space-between;
+}
+.worldtracker_child{
+    margin: 3vw;
+    font-size: 2vw;
+}
+.Drop-down{
+    display:flex;
+    justify-content: center;
+}
+#cars{
+    width:350px;
+    font-size: 1vw;
+}
+.Tracker{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5vw;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    
+}
+.footer-child{
+    margin-left: 40vw;
+}
