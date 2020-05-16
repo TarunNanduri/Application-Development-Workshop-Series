@@ -1,4 +1,18 @@
-# flutter_tutorial
+# Flutter
+## Introduction to Flutter
+* https://flutter.dev/
+## Dart Programming
+* http://dart.dev/
+## Language Tour
+* https://dart.dev/guides/language/language-tour
+## Getting Started with flutter
+* https://flutter.dev/docs/get-started/install
+## UI components – Widgets
+* Flutter Basic Widgets: https://flutter.dev/docs/development/ui/widgets/basics
+##	First Flutter App:
+* https://flutter.dev/docs/get-started/codelab  
+
+## flutter_tutorial
 
 A Flutter project to train students on Cross Platform App Development
 
@@ -50,4 +64,5 @@ This will run the web application on your localhost.
 
 Replace macOS with Windows, in case you are using Windows. Run `flutter doctor` for required installations.
 
-Refer to [online documentation](https://flutter.dev/docs) for more details.
+## Assignment
+* <img src="assignment.png" height="300">
