@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Covid-19 Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="getData(), getWorldDetails(), populateCountryNames()">
+    <div>
+        <div class="heading">
+            <h1>World</h1>
+        </div>
+        
+        <div class="worldtracker">
+            <div class="worldtracker_child" >Confirmed: <span id = "confirm" ></span></div>
+            <div class="worldtracker_child">Recovered: <span id = "recovered" ></span></div>
+            <div class="worldtracker_child">Deaths: <span id = "deaths" ></span></div>
+        </div>
+        <div>
+<div class="Drop-down">    
+<select id="select" onchange="getCountryDetail()">  </select>
+</div>
+  <div>
+      <div class="Tracker">
+      <h1>
+        Currently showing <span id = "country"></span>
+      </h1>
+      </div>
+      <div class="worldtracker">
+        <div class="worldtracker_child" >Confirmed: <span id = "country-confirm" ></span></div>
+            <div class="worldtracker_child">Recovered: <span id = "country-recovered" ></span></div>
+            <div class="worldtracker_child">Deaths: <span id = "country-deaths" ></span></div>
+        </div>
+  </div>
+        </div>
+        <div class = "footer">
+        <h2 class="footer-child">Stay hom Stay safe</h2>
+        <h1 class = "footer-child">Jai Hind</h1>
+    </div>
+    </div>
+ 
+    <script src="index.js"></script>
+</body>
+</html>
