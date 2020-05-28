@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:planets/vegetable_widget.dart';
 
 void main() {
   runApp(Planets());
@@ -26,18 +27,19 @@ List<String> urls=[
 class Planets extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
+      
       home: Scaffold(
           appBar: AppBar(
             backgroundColor: Colors.white,
             elevation: 0,
             title: Text("Planets",style: TextStyle(color: Colors.black),),
           ),
-          body: GridView.count(
-            crossAxisSpacing: 10,
+          body: Container(child:ListView(children:[GridView.count(
+            crossAxisSpacing: MediaQuery.of(context).size.width/12,
             mainAxisSpacing: 10,
             crossAxisCount: 3,
-            children: List.generate(8, (index) => getMeGridCell(urls[index], planetNames[index])),
-          )),
+            children: List.generate(8, (index) => VegetableWidget()),
+          )]))),
     );
   }
 
