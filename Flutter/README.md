@@ -16,8 +16,6 @@
 
 A Flutter project to train students on Cross Platform App Development
 
-Here's the link to <a href="http://web-demo-flutter.surge.sh/#/">Web Application</a> of this flutter project.
-
 ## Screenshots
 
 ### Mobile
