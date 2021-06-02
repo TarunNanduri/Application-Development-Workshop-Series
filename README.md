@@ -2,14 +2,14 @@
 
 <h2> Tech Stack we gonna learn </h2>
 
-<ul>
+<ol>
   <li> HTML and CSS </li>
   <li> Java Script </li>
   <li> Dart </li>
   <li> Node.js </li>
   <li> React </li>
   <li> Flutter </li>
-</ul>
+</ol>
 
 Our Contributors:
 <ul>
